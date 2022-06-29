@@ -1,5 +1,5 @@
-from Weather import weather1
-from Course import course1
+from weather import weather1
+from course import course1
 
 weather1()
 course1()
