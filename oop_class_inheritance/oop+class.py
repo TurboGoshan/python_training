@@ -14,7 +14,7 @@ class Restauran():
         print('вкусно и не дорого!')
 
 
-# создаем триэкземпляра с данными: restaurant_name, cuisine_type
+# создаем три экземпляра с данными: restaurant_name, cuisine_type
 rest1 = Restauran('Тбилиси', 'кавказская')
 rest2 = Restauran('Пильменная', 'русская')
 rest3 = Restauran('Палермо', 'итальянская')
